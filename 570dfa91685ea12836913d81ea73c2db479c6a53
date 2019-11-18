@@ -1,0 +1,1 @@
+{"jobID":"3bee885c-14b2-b194-5161-fc479c50d54b","spec":{"type":"policy","cause":{"Message":"","User":"Aaron Miller \u003cmilleraa@vmware.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
